@@ -1,4 +1,4 @@
-# vue_01
+# vue-learning
 
 ## Project setup
 ```
